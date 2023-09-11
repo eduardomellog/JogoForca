@@ -17,7 +17,7 @@ Antes de começar, verifique se você atende os seguintes requisitos:
 
 Não é necessário instalar, apenas rode o script.
 
-## ☕ Usando Jogo da Velha
+## ☕ Usando Jogo da Forca
 
 # ATUALIZADO: O script precisa ser atualizado, não está rodando por falta de atualização.
 
